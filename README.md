@@ -1,4 +1,4 @@
-# University of Milano Bicocca - Master BI &amp; Big Data Analytics 2020
+# University of Milano Bicocca - Master BI &amp; Big Data Analytics 2021
 
 This repository contains the material, datasets and notebooks used during the 2021 edition of the **Master BI & Big Data Analytics** @ University of Milano Bicocca.
 
